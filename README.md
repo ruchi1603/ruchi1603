@@ -32,10 +32,10 @@ I'm Ruchi Kumari final year CSE student at The Technological Institute of Textil
 <br>
 
 ### Social
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> [ruchi1603](https://www.linkedin.com/in/ruchi1603/ "LCO") 
-
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> [ruchi1603]( "LCO")
+<a href="https://www.linkedin.com/in/ruchi1603/" >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 
 <br>
 
